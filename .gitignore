@@ -1,12 +1,13 @@
 /experiments/
 /checkpoints/
 # /data/
-/logs/                               -00987689][poi?.,mnbvcxz-=11765]
+/logs/                               
 /mlruns/
 /profiler/
 /logs/
 /docs/downloads/
 /docs/experiments/
+.venv/
 
 /examples/qa/hotpot/MIPRO_notebook_cache/
 /examples/nli/scone/MIPRO_notebook_cache/
